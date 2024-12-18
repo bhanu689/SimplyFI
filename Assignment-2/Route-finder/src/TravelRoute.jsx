@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-// List of cities your son mentioned
+// List of cities son mentioned
 const citiesVisited = ['Amsterdam', 'Kiev', 'Zurich', 'Prague', 'Berlin', 'Barcelona'];
 
 // List of train tickets as directed edges
